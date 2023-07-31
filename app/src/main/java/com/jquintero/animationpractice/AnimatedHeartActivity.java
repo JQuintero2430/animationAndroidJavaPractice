@@ -8,7 +8,7 @@ import android.animation.ObjectAnimator;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-public class AnimatedActivity extends AppCompatActivity {
+public class AnimatedHeartActivity extends AppCompatActivity {
 
     private boolean isAvoid_heart_icon = false;
 
